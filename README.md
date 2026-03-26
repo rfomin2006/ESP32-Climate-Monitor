@@ -13,7 +13,7 @@
 | Компонент | Назначение | Изображение |
 |:----------|:-----------|:-----------:|
 |ESP32-WROOM-32|Аппаратная платформа|<img src="images/esp32.jpg" width="100">|
-|DHT22|Датчик температуры и влажности|<img src="images/dht22.jpg" width="100">|
+|DHT22|Датчик температуры и влажности|<img src="images/dht22.png" width="100">|
 |SGP30|Датчик качества воздуха|<img src="images/sgp30.jpg" width="100">|
 |Модуль фоторезистора|Датчик освещенности|<img src="images/luxometer.jpg" width="100">|
 
@@ -41,9 +41,9 @@
 + получать доступ к системе через локальную сеть
 
 ## Скриншоты
-![Страница настройки WiFi-соединения](images/wifimanager.jpg)
+![Страница настройки WiFi-соединения](images/wifimanager.png)
 
-![Страница монитора микроклимата](images/dashboard.jpg)
+![Страница монитора микроклимата](images/dashboard.png)
 
 ![Мобильная версия](images/dashboard_mobile.jpg)
 
